@@ -1,5 +1,5 @@
 # Desafio Jogo Gourmet - Objective Solutions
 
-## Test
+## Testando Game
 
-Para testar a aplicação, execute o index.html em seu navegador
+Para testar a aplicação, execute em seu navegador o arquivo **index.html**, que se encontra na raiz do projeto
